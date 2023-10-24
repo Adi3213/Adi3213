@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adi3213
 - 👀 I’m interested in Microsoft Copilot 
 - 🌱 I’m currently learning how to use Git and Github
-- 💞️ I’m looking to collaborate on a project to improve Windows ( But I don't know how to code🤣🤣)
+- 💞️ I’m looking to collaborate on a project to improve Windows 11 and make it like macOS ( But I don't know how to code🤣🤣)
 - 📫 How to reach me (Don't 😆)
 
 <!---
